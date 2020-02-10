@@ -60,7 +60,7 @@ typings/
 # next.js build output
 .next
 generated
-prisma.yml
+# prisma.yml
 build
 # https://app.prisma.io/timeundtime-b20c92/services/prisma-us1/prismagram/dev/databrowser
 # https://us1.prisma.sh/timeundtime-b20c92/prismagram/dev
